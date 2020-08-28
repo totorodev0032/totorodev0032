@@ -14,7 +14,7 @@ Currently improving my React skills: NextJS, Gatsby JS, React Native and GraphQL
 #### 🔭 I’m currently working on
 
 * Web Platform for CodeAsylums, Bengaluru
-* Android Platform for MyDoctor app for Excain LLP.
+* Android Platform for MyDoctor app at Excain LLP.
 
 
 #### 💬 Ask me about
