@@ -1,3 +1,7 @@
+
+![alt-text](https://github.com/totorodev0032/totorodev0032/blob/master/profile.gif)
+
+
 ### Hi there, I'm Nagendra 👋
 
 
